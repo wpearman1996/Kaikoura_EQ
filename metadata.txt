@@ -1,0 +1,706 @@
+Sample	Barcode	SampleOwner	Species	SampleType	Location	Specific Sample	Sample_or_Control	Batch	SamplingYear	GeneticSpecies	SampleTypeTwo	Lat	Long			
+CCA1	ATGTGAATGTGA	William	Antarctica	Pooled	CapeCampbell	CCA	Sample	NoGroup	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA10A	CTATGGTGAACC	William	Antarctica	Blade	CapeCampbell	CCA10	Sample	Group13	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA10B	GTGTTTAACTCT	William	Antarctica	Blade	CapeCampbell	CCA10	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA10C	CCGGTCCGGGCA	William	Antarctica	Palmate	CapeCampbell	CCA10	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA11A	GTAATGCGTAAC	William	Antarctica	Blade	CapeCampbell	CCA11	Sample	Group12	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA11B	CGTACCAGATCC	William	Antarctica	Blade	CapeCampbell	CCA11	Sample	Group16	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA11C	GACGATCGGGCC	William	Antarctica	Palmate	CapeCampbell	CCA11	Sample	Group13	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA12A	TTCCATCATGTC	William	Antarctica	Blade	CapeCampbell	CCA12	Sample	Group1	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA12B	CCTCGTCGTCAG	William	Antarctica	Blade	CapeCampbell	CCA12	Sample	Group15	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA12C	GGTTTAACACGC	William	Antarctica	Palmate	CapeCampbell	CCA12	Sample	Group2	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA1A	ATGTCCGACCAA	William	Antarctica	Blade	CapeCampbell	CCA1	Sample	Group8	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA1B	CGCTCTTAACGG	William	Antarctica	Blade	CapeCampbell	CCA1	Sample	Group2	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA1C	CGTAGTACCACA	William	Antarctica	Palmate	CapeCampbell	CCA1	Sample	Group15	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA2A	GTGTTAGATGTG	William	Antarctica	Blade	CapeCampbell	CCA2	Sample	Group15	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA2B	ATCTTGGAGTCG	William	Antarctica	Blade	CapeCampbell	CCA2	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA2C	GTGGATAAACTC	William	Antarctica	Palmate	CapeCampbell	CCA2	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA3A	ACCAGCTCAGAT	William	Antarctica	Blade	CapeCampbell	CCA3	Sample	Group12	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA3B	AAGGCTGGGCAC	William	Antarctica	Blade	CapeCampbell	CCA3	Sample	Group13	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA3C	CGCTTGTGTAGC	William	Antarctica	Palmate	CapeCampbell	CCA3	Sample	Group2	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA4A	GGTGACTAGTTC	William	Antarctica	Blade	CapeCampbell	CCA4	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA4B	TCTGAGGTTGCC	William	Antarctica	Blade	CapeCampbell	CCA4	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA4C	CATGTTGGAACA	William	Antarctica	Palmate	CapeCampbell	CCA4	Sample	Group10	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA5A	GGCCTGGCCTGG	William	Antarctica	Blade	CapeCampbell	CCA5	Sample	Group12	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA5B	TAGTTACTAGTT	William	Antarctica	Blade	CapeCampbell	CCA5	Sample	Group12	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA5C	GACGAGGTCGGT	William	Antarctica	Palmate	CapeCampbell	CCA5	Sample	Group3	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA6A	GAAAGGTGAGAA	William	Antarctica	Blade	CapeCampbell	CCA6	Sample	Group2	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA6B	GGAGTTGAGGTG	William	Antarctica	Blade	CapeCampbell	CCA6	Sample	Group15	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA6C	ATGAACTATGAG	William	Antarctica	Palmate	CapeCampbell	CCA6	Sample	Group8	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA7A	TAGCGGAAGACG	William	Antarctica	Blade	CapeCampbell	CCA7	Sample	Group2	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA7B	CGCTGCTTCGGT	William	Antarctica	Blade	CapeCampbell	CCA7	Sample	Group5	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA7C	ACCACTTGCCAG	William	Antarctica	Palmate	CapeCampbell	CCA7	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA8A	ATTAAGCCTGGA	William	Antarctica	Blade	CapeCampbell	CCA8	Sample	Group1	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA8B	ACGATCATCTGG	William	Antarctica	Blade	CapeCampbell	CCA8	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA8C	GTGCATTCGCCA	William	Antarctica	Palmate	CapeCampbell	CCA8	Sample	Group3	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA9A	CAATACGACCGT	William	Antarctica	Blade	CapeCampbell	CCA9	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA9B	GTACCAGGTACT	William	Antarctica	Blade	CapeCampbell	CCA9	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCA9C	ATGGAGTTGTTG	William	Antarctica	Palmate	CapeCampbell	CCA9	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ1A	ACCCGACGGGAC	William	Antarctica	Blade	CapeCampbell	CCJ1	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ1B	ATTGCGCTACCG	William	Antarctica	Blade	CapeCampbell	CCJ1	Sample	Group3	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ1C	GGTTACGGTTAC	William	Antarctica	Palmate	CapeCampbell	CCJ1	Sample	Group12	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ2A	TGCGTGGGTGGA	William	Antarctica	Blade	CapeCampbell	CCJ2	Sample	Group5	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ2B	CAAGAGCGGATG	William	Antarctica	Blade	CapeCampbell	CCJ2	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ2C	TCTGCACTGAGC	William	Antarctica	Palmate	CapeCampbell	CCJ2	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ3A	ATATGGAAACTG	William	Antarctica	Blade	CapeCampbell	CCJ3	Sample	Group3	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ3B	GATCTTGTTTGT	William	Antarctica	Blade	CapeCampbell	CCJ3	Sample	Group15	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ3C	GTGAGCACGCAG	William	Antarctica	Palmate	CapeCampbell	CCJ3	Sample	Group10	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ4	TGTCAGCTGTCG	William	Antarctica	Palmate	CapeCampbell	CCJ4	Sample	NoGroup	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ4A	GCACATAGTCGT	William	Antarctica	Blade	CapeCampbell	CCJ4	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ4B	GTGACGTTAGTC	William	Antarctica	Blade	CapeCampbell	CCJ4	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ4C	GCCCGACATATA	William	Antarctica	Palmate	CapeCampbell	CCJ4	Sample	Group10	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ5A	ACAGGAGGGTGT	William	Antarctica	Blade	CapeCampbell	CCJ5	Sample	Group6	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ5B	CGACCCATACGT	William	Antarctica	Blade	CapeCampbell	CCJ5	Sample	Group14	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ5C	TTACAGGAGTAA	William	Antarctica	Palmate	CapeCampbell	CCJ5	Sample	Group13	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ6A	CTTGCATACCGG	William	Antarctica	Blade	CapeCampbell	CCJ6	Sample	Group1	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ6B	TAGAGCTGCCAT	William	Antarctica	Blade	CapeCampbell	CCJ6	Sample	Group9	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCJ6C	GCGTCCATGAAT	William	Antarctica	Palmate	CapeCampbell	CCJ6	Sample	Group11	2020	Antarctica	Macroalgae	-41.711808	174.294088			
+CCRODI	CTGTCAGTGACC	William	Control	RODIWater	CapeCampbell	CCRODI	Control	Group1	2022	NA	Control	-41.711808	174.294088			
+CCASNeg			ISCA	ASW	CapeCampbell	CCASNeg	Control	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCAS1			ISCA	ASW	CapeCampbell	CCAS1	Sample	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCAS2			ISCA	ASW	CapeCampbell	CCAS2	Sample	MSBat4	2022	NA	ISCA	-41.711808	174.294088			
+CCAS3			ISCA	ASW	CapeCampbell	CCAS3	Sample	MSBat3	2022	NA	ISCA	-41.711808	174.294088			
+CCAS4			ISCA	ASW	CapeCampbell	CCAS4	Sample	MSBat8	2022	NA	ISCA	-41.711808	174.294088			
+CCAS5			ISCA	ASW	CapeCampbell	CCAS5	Sample	MSBat4	2022	NA	ISCA	-41.711808	174.294088			
+CCKE1			ISCA	KE	CapeCampbell	CCKE1	Sample	MSBat6	2022	NA	ISCA	-41.711808	174.294088			
+CCKE2			ISCA	KE	CapeCampbell	CCKE2	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCKE3			ISCA	KE	CapeCampbell	CCKE3	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCKE4			ISCA	KE	CapeCampbell	CCKE4	Sample	MSBat8	2022	NA	ISCA	-41.711808	174.294088			
+CCKE5			ISCA	KE	CapeCampbell	CCKE5	Sample	MSBat8	2022	NA	ISCA	-41.711808	174.294088			
+CCKENeg			ISCA	KE	CapeCampbell		Control		2022	NA	ISCA	-41.711808	174.294088			
+CCLBNeg			ISCA	LB	CapeCampbell	CCLBNeg	Control	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCLB1			ISCA	LB	CapeCampbell	CCLB1	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCLB2			ISCA	LB	CapeCampbell	CCLB2	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCLB3			ISCA	LB	CapeCampbell	CCLB3	Sample	MSBat7	2022	NA	ISCA	-41.711808	174.294088			
+CCLB4			ISCA	LB	CapeCampbell	CCLB4	Sample	MSBat3	2022	NA	ISCA	-41.711808	174.294088			
+CCLB5			ISCA	LB	CapeCampbell	CCLB5	Sample	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCMQ1			ISCA	MQ	CapeCampbell	CCMQ1	Sample	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCMQ2			ISCA	MQ	CapeCampbell	CCMQ2	Sample	MSBat0	2022	NA	ISCA	-41.711808	174.294088			
+CCMQ3			ISCA	MQ	CapeCampbell	CCMQ3	Sample	MSBat5	2022	NA	ISCA	-41.711808	174.294088			
+CCMQ4			ISCA	MQ	CapeCampbell	CCMQ4	Sample	MSBat3	2022	NA	ISCA	-41.711808	174.294088			
+CCMQ5			ISCA	MQ	CapeCampbell	CCMQ5	Sample	MSBat10	2022	NA	ISCA	-41.711808	174.294088			
+CCMQNeg			ISCA	MQ	CapeCampbell		Control		2022	NA	ISCA	-41.711808	174.294088			
+CCPE1			ISCA	PE	CapeCampbell	CCPE1	Sample	MSBat3	2022	NA	ISCA	-41.711808	174.294088			
+CCPE2			ISCA	PE	CapeCampbell	CCPE2	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCPE3			ISCA	PE	CapeCampbell	CCPE3	Sample	MSBat10	2022	NA	ISCA	-41.711808	174.294088			
+CCPE4			ISCA	PE	CapeCampbell	CCPE4	Sample	MSBat8	2022	NA	ISCA	-41.711808	174.294088			
+CCPE5			ISCA	PE	CapeCampbell	CCPE5	Sample	MSBat1	2022	NA	ISCA	-41.711808	174.294088			
+CCPENeg			ISCA	PE	CapeCampbell		Control		2022	NA	ISCA	-41.711808	174.294088			
+CCW1_2			ISCA	SW	CapeCampbell	CCW1	Sample	MSBat7	2022	NA	ISCA	-41.711808	174.294088			
+CCW2_2			ISCA	SW	CapeCampbell	CCW2	Sample	MSBat3	2022	NA	ISCA	-41.711808	174.294088			
+CCW1			Seawater	Seawater	CapeCampbell	CCW1	Sample	B2_Group5	2022	NA	Seawater	-41.711808	174.294088			
+CCW2			Seawater	Seawater	CapeCampbell	CCW2	Sample	B2_Group3	2022	NA	Seawater	-41.711808	174.294088			
+CCwater1	ACGGACTGGCGC	William	Seawater	Seawater	CapeCampbell	CCwater1	Sample	Group5	2020	NA	Seawater	-41.711808	174.294088			
+CCWater2	AATTGAATTTAC	William	Seawater	Seawater	CapeCampbell	CCWater2	Sample	Group12	2020	NA	Seawater	-41.711808	174.294088			
+CCWater3	TTGTAGCCGACA	William	Seawater	Seawater	CapeCampbell	CCWater3	Sample	Group3	2020	NA	Seawater	-41.711808	174.294088			
+CCWater4	ATGGCAATTCAG	William	Seawater	Seawater	CapeCampbell	CCWater4	Sample	Group4	2020	NA	Seawater	-41.711808	174.294088			
+CCSub1	CGTGTAGTAGAT	William	Substrate	Substrate	CapeCampbell	CCSub1	Sample	Group8	2020	NA	Substrate	-41.711808	174.294088			
+CCSub2	GATGAGTCGCGG	William	Substrate	Substrate	CapeCampbell	CCSub2	Sample	Group7	2020	NA	Substrate	-41.711808	174.294088			
+CCSub3	TCGAAGACGTAT	William	Substrate	Substrate	CapeCampbell	CCSub3	Sample	Group13	2020	NA	Substrate	-41.711808	174.294088			
+CCSub4	TGTGGAAACTCC	William	Substrate	Substrate	CapeCampbell	CCSub4	Sample	Group7	2020	NA	Substrate	-41.711808	174.294088			
+CC_W1A	CTGTGTCCATGG	William	Willana	Blade	CapeCampbell	CC_W1	Sample	Group11	2020	Willana	Willana	-41.711808	174.294088			
+CC_W1B	GCGCAATAGTAT	William	Willana	Blade	CapeCampbell	CC_W1	Sample	Group12	2020	Willana	Willana	-41.711808	174.294088			
+CC_W1C	GTACACTGATAG	William	Willana	Palmate	CapeCampbell	CC_W1	Sample	Group14	2020	Willana	Willana	-41.711808	174.294088			
+CC_W2A	CAGGCTCAGAGG	William	Willana	Blade	CapeCampbell	CC_W2	Sample	Group6	2020	Willana	Willana	-41.711808	174.294088			
+CC_W2B	ACAAGGCAAGGC	William	Willana	Blade	CapeCampbell	CC_W2	Sample	Group6	2020	Willana	Willana	-41.711808	174.294088			
+CC_W2C	GCAGCGGTGGCT	William	Willana	Palmate	CapeCampbell	CC_W2	Sample	Group9	2020	Willana	Willana	-41.711808	174.294088			
+CC_W3A	ATGGCTGTCAGT	William	Willana	Blade	CapeCampbell	CC_W3	Sample	Group15	2020	Willana	Willana	-41.711808	174.294088			
+CC_W3B	GCCTGCAGTACT	William	Willana	Blade	CapeCampbell	CC_W3	Sample	Group15	2020	Willana	Willana	-41.711808	174.294088			
+CC_W3C	CGATAGGCCTTA	William	Willana	Palmate	CapeCampbell	CC_W3	Sample	Group9	2020	Willana	Willana	-41.711808	174.294088			
+CC_W4A	CATAATCTTGCT	William	Willana	Blade	CapeCampbell	CC_W4	Sample	Group11	2020	Willana	Willana	-41.711808	174.294088			
+CC_W4B	TAAGATGCAGTC	William	Willana	Blade	CapeCampbell	CC_W4	Sample	Group1	2020	Willana	Willana	-41.711808	174.294088			
+CC_W4C	ACCTCTATTCGT	William	Willana	Palmate	CapeCampbell	CC_W4	Sample	Group3	2020	Willana	Willana	-41.711808	174.294088			
+CC_W5A	TCCGCGCAAGTT	William	Willana	Blade	CapeCampbell	CC_W5	Sample	Group16	2020	Willana	Willana	-41.711808	174.294088			
+CC_W5B	CGAAATGCATGT	William	Willana	Blade	CapeCampbell	CC_W5	Sample	Group17	2020	Willana	Willana	-41.711808	174.294088			
+CCW5C	TCCTCGAGCGAT	William	Willana	Palmate	CapeCampbell	CCW5	Sample	Group10	2020	Willana	Willana	-41.711808	174.294088			
+CHR1			Antarctica		Charleston	CHR1	Sample	B2_Group4	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR2			Antarctica		Charleston	CHR2	Sample	B2_Group4	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR3			Antarctica		Charleston	CHR3	Sample	B2_Group1	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR4			Antarctica		Charleston	CHR4	Sample	B2_Group10	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR5			Antarctica		Charleston	CHR5	Sample	B2_Group9	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR6			Antarctica		Charleston	CHR6	Sample	B2_Group10	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHR7			Antarctica		Charleston	CHR7	Sample	B2_Group6	2022	Antarctica	Macroalgae	-41.889711	171.423331			
+CHRW2			Seawater	Seawater	Charleston	CHRW2	Sample	B2_Group3	2022	NA	Seawater	-41.889711	171.423331			
+CHRS1			Substrate		Charleston	CHRS1	Sample	B2_Group5	2022	NA	Substrate	-41.889711	171.423331			
+B1Blank	AGATCTATGCAG	William	Control	ExtractionNegative	Control	B1Blank	Control	Group1	2022	NA	Control	#N/A	#N/A			
+Bat10Neg	ACTAGACGACTA	William	Control	ExtractionNegative	Control	Bat10Neg	Control	Group11	2022	NA	Control	#N/A	#N/A			
+Bat11Neg	GAGGTTCTTGAC	William	Control	ExtractionNegative	Control	Bat11Neg	Control	Group12	2022	NA	Control	#N/A	#N/A			
+Bat12Neg	TTCGTGAGGATA	William	Control	ExtractionNegative	Control	Bat12Neg	Control	Group10	2022	NA	Control	#N/A	#N/A			
+Bat13Neg	TCGTAAGCCGTC	William	Control	ExtractionNegative	Control	Bat13Neg	Control	Group13	2022	NA	Control	#N/A	#N/A			
+Bat14Neg	AAGCATTGAGAT	William	Control	ExtractionNegative	Control	Bat14Neg	Control	Group14	2022	NA	Control	#N/A	#N/A			
+Bat15Neg	AGTTGAGGCATT	William	Control	ExtractionNegative	Control	Bat15Neg	Control	Group15	2022	NA	Control	#N/A	#N/A			
+Bat16Neg	TTGCCTGGGTCA	William	Control	ExtractionNegative	Control	Bat16Neg	Control	Group16	2022	NA	Control	#N/A	#N/A			
+Bat17Neg	GATTTAGAGGCT	William	Control	ExtractionNegative	Control	Bat17Neg	Control	Group17	2022	NA	Control	#N/A	#N/A			
+Bat2Negative	AGTTACGAGCTA	William	Control	ExtractionNegative	Control	Bat2Negative	Control	Group2	2022	NA	Control	#N/A	#N/A			
+Bat3Neg	CGGGCCGACGAT	William	Control	ExtractionNegative	Control	Bat3Neg	Control	Group3	2022	NA	Control	#N/A	#N/A			
+Bat4Neg	CTCGAGCGTACT	William	Control	ExtractionNegative	Control	Bat4Neg	Control	Group4	2022	NA	Control	#N/A	#N/A			
+Bat5Neg	TACATATCTACA	William	Control	ExtractionNegative	Control	Bat5Neg	Control	Group5	2022	NA	Control	#N/A	#N/A			
+Bat6Neg	ATTCTGCCGAAG	William	Control	ExtractionNegative	Control	Bat6Neg	Control	Group6	2022	NA	Control	#N/A	#N/A			
+Bat7Neg	TCTAAGAAAGAA	William	Control	ExtractionNegative	Control	Bat7Neg	Control	Group7	2022	NA	Control	#N/A	#N/A			
+Bat8Neg	ATTGATATTGAT	William	Control	ExtractionNegative	Control	Bat8Neg	Control	Group8	2022	NA	Control	#N/A	#N/A			
+Bat9Neg	GAATCAAATCGA	William	Control	ExtractionNegative	Control	Bat9Neg	Control	Group9	2022	NA	Control	#N/A	#N/A			
+2bat10neg			ExtractionNegative		Extract_Neg	2bat10neg	Control	B2_Group10	2022	NA	Control	#N/A	#N/A			
+2bat11neg			ExtractionNegative		Extract_Neg	2bat11neg	Control	B2_Group11	2022	NA	Control	#N/A	#N/A			
+2bat1neg			ExtractionNegative		Extract_Neg	2bat1neg	Control	B2_Group1	2022	NA	Control	#N/A	#N/A			
+2bat2neg			ExtractionNegative		Extract_Neg	2bat2neg	Control	B2_Group2	2022	NA	Control	#N/A	#N/A			
+2bat3neg			ExtractionNegative		Extract_Neg	2bat3neg	Control	B2_Group3	2022	NA	Control	#N/A	#N/A			
+2bat4neg			ExtractionNegative		Extract_Neg	2bat4neg	Control	B2_Group4	2022	NA	Control	#N/A	#N/A			
+2bat5neg			ExtractionNegative		Extract_Neg	2bat5neg	Control	B2_Group5	2022	NA	Control	#N/A	#N/A			
+2bat6neg			ExtractionNegative		Extract_Neg	2bat6neg	Control	B2_Group6	2022	NA	Control	#N/A	#N/A			
+2bat7neg			ExtractionNegative		Extract_Neg	2bat7neg	Control	B2_Group7	2022	NA	Control	#N/A	#N/A			
+2bat8neg			ExtractionNegative		Extract_Neg	2bat8neg	Control	B2_Group8	2022	NA	Control	#N/A	#N/A			
+2bat9neg			ExtractionNegative		Extract_Neg	2bat9neg	Control	B2_Group9	2022	NA	Control	#N/A	#N/A			
+Kai1			Antarctica		Kaikoura	Kai1	Sample	B2_Group4	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai10			Antarctica		Kaikoura	Kai10	Sample	B2_Group11	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai2			Antarctica		Kaikoura	Kai2	Sample	B2_Group6	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai3			Antarctica		Kaikoura	Kai3	Sample	B2_Group7	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai4			Antarctica		Kaikoura	Kai4	Sample	B2_Group2	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai5			Antarctica		Kaikoura	Kai5	Sample	B2_Group2	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai6			Antarctica		Kaikoura	Kai6	Sample	B2_Group2	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai7			Antarctica		Kaikoura	Kai7	Sample	B2_Group3	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai8			Antarctica		Kaikoura	Kai8	Sample	B2_Group6	2022	Poha	Macroalgae	-42.423182	173.734117			
+Kai9			Antarctica		Kaikoura	Kai9	Sample	B2_Group4	2022	Poha	Macroalgae	-42.423182	173.734117			
+KaiA10A	ACGCCACTTGCC	William	Antarctica	Blade	Kaikoura	KaiA10	Sample	Group1	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA10B	CAGTCAGGCCTT	William	Antarctica	Blade	Kaikoura	KaiA10	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA10C	CTATAACACATT	William	Antarctica	Palmate	Kaikoura	KaiA10	Sample	Group12	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA11A	TTGGGCCACATA	William	Antarctica	Blade	Kaikoura	KaiA11	Sample	Group4	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA11B	TAAACGCGACTC	William	Antarctica	Blade	Kaikoura	KaiA11	Sample	Group1	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA11C	GGTTCGGTCCAT	William	Antarctica	Palmate	Kaikoura	KaiA11	Sample	Group13	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA12	CTCCTCCCTTAC	William	Antarctica	Pooled	Kaikoura	KaiA12	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA12A	CAGGTAATAATG	William	Antarctica	Blade	Kaikoura	KaiA12	Sample	Group14	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA12B	TCCTCCGGTTGG	William	Antarctica	Blade	Kaikoura	KaiA12	Sample	Group13	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA12C	CAAGCGTTGTCC	William	Antarctica	Palmate	Kaikoura	KaiA12	Sample	Group12	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA1A	TTCGCTAACCTT	William	Antarctica	Blade	Kaikoura	KaiA1	Sample	Group16	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA1B	TTCACTGTGCGG	William	Antarctica	Blade	Kaikoura	KaiA1	Sample	Group14	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA1C	CCATATCCCGGA	William	Antarctica	Palmate	Kaikoura	KaiA1	Sample	Group15	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA2	AGGTTCTTAGGC	William	Antarctica	Pooled	Kaikoura	KaiA2	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA2A	TGCCATTAGAGC	William	Antarctica	Blade	Kaikoura	KaiA2	Sample	Group13	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA2B	ATGTGGCGTGTT	William	Antarctica	Blade	Kaikoura	KaiA2	Sample	Group3	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA2C	CTGCAAGCCTGT	William	Antarctica	Palmate	Kaikoura	KaiA2	Sample	Group10	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA3A	ATCATTGATTAC	William	Antarctica	Blade	Kaikoura	KaiA3	Sample	Group8	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA3B	CTCTCGGCGTAA	William	Antarctica	Blade	Kaikoura	KaiA3	Sample	Group11	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA3C	TCTAGGTTATTC	William	Antarctica	Palmate	Kaikoura	KaiA3	Sample	Group9	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA4A	GGATCAGCCGCG	William	Antarctica	Blade	Kaikoura	KaiA4	Sample	Group17	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA4C	TTCGCAGATACG	William	Antarctica	Palmate	Kaikoura	KaiA4	Sample	Group14	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA5A	TCCGTATGCGCC	William	Antarctica	Blade	Kaikoura	KaiA5	Sample	Group2	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA5B	CGACCGGTGAAG	William	Antarctica	Blade	Kaikoura	KaiA5	Sample	Group13	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA5C	TCGTCAAACCCG	William	Antarctica	Palmate	Kaikoura	KaiA5	Sample	Group4	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA6A	TATTAGCCTATC	William	Antarctica	Blade	Kaikoura	KaiA6	Sample	Group9	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA6B	GTGTTCCCAGAA	William	Antarctica	Blade	Kaikoura	KaiA6	Sample	Group10	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA6C	TAAACAATCAGG	William	Antarctica	Palmate	Kaikoura	KaiA6	Sample	Group8	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA7A	CCGATCTCCGAC	William	Antarctica	Blade	Kaikoura	KaiA7	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA7B	ATACCTAAATAT	William	Antarctica	Blade	Kaikoura	KaiA7	Sample	Group8	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA7C	CTCAAGTCAAAG	William	Antarctica	Palmate	Kaikoura	KaiA7	Sample	Group15	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA8	AGCACGAGCACG	William	Antarctica	Pooled	Kaikoura	KaiA8	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA8A	CGGCTACTATGC	William	Antarctica	Blade	Kaikoura	KaiA8	Sample	Group10	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA8B	GGTCCGAAGCCG	William	Antarctica	Blade	Kaikoura	KaiA8	Sample	Group2	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA8C	AACTTCACTTCC	William	Antarctica	Palmate	Kaikoura	KaiA8	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA9A	TCCGTCATGGGT	William	Antarctica	Blade	Kaikoura	KaiA9	Sample	Group2	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA9B	GAGCACGCACGC	William	Antarctica	Blade	Kaikoura	KaiA9	Sample	Group2	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiA9C	ACCTTGACAAGA	William	Antarctica	Palmate	Kaikoura	KaiA9	Sample	Group3	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ1A	GTAACCACCACC	William	Antarctica	Blade	Kaikoura	KaiJ1	Sample	Group3	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ1B	AGGAAAGCCAGA	William	Antarctica	Blade	Kaikoura	KaiJ1	Sample	Group13	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ1C_A	TGAAGTCACAGT	William	Antarctica	Blade	Kaikoura	KaiJ1C	Sample	Group9	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ2A	TGCCCTCCGTAG	William	Antarctica	Blade	Kaikoura	KaiJ2	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ2B	TCCTGAACACAG	William	Antarctica	Blade	Kaikoura	KaiJ2	Sample	Group4	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ2C	GGTTGTAAGTGT	William	Antarctica	Palmate	Kaikoura	KaiJ2	Sample	Group6	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ3A	ATCTCTGGCGCC	William	Antarctica	Blade	Kaikoura	KaiJ3	Sample	Group11	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ3B	TAGGCCATGTAA	William	Antarctica	Blade	Kaikoura	KaiJ3	Sample	Group15	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ3C	TCCAGGGCTATA	William	Antarctica	Palmate	Kaikoura	KaiJ3	Sample	Group12	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ4A	CGTGTGTGCTCA	William	Antarctica	Blade	Kaikoura	KaiJ4	Sample	Group5	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ4B	ATTTCGACCCGG	William	Antarctica	Blade	Kaikoura	KaiJ4	Sample	Group1	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ4C	GACTATAATGGC	William	Antarctica	Palmate	Kaikoura	KaiJ4	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ5	TCTTTATGTCGA	William	Antarctica	Pooled	Kaikoura	KaiJ5	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ5A	ATCAGGTAAACA	William	Antarctica	Blade	Kaikoura	KaiJ5	Sample	Group5	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ5B	ACCTAGCTAGTG	William	Antarctica	Blade	Kaikoura	KaiJ5	Sample	Group5	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ5C	CTGACGATCCGT	William	Antarctica	Palmate	Kaikoura	KaiJ5	Sample	Group7	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ6A	ATCTGGACGATC	William	Antarctica	Blade	Kaikoura	KaiJ6	Sample	Group17	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ6B	CCAGGTTAATGC	William	Antarctica	Blade	Kaikoura	KaiJ6	Sample	Group5	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiJ6C	ACCTTCGCGCAC	William	Antarctica	Palmate	Kaikoura	KaiJ6	Sample	Group5	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaipA4B	CGCGCTGGCCCG	William	Antarctica	Blade	Kaikoura	KaiA4	Sample	Group12	2020	Antarctica	Macroalgae	-42.423182	173.734117			
+KaiRODI	TCTATTGTTAGA	William	Control	RODI Water	Kaikoura	KaiRODI	Control	Group16	2022	NA	Control	-42.423182	173.734117			
+KASNeg			ISCA	ASW	Kaikoura	KASNeg	Control	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KAS1			ISCA	ASW	Kaikoura	KAS1	Sample	MSBat0	2022	NA	ISCA	-42.423182	173.734117			
+KAS2			ISCA	ASW	Kaikoura	KAS2	Sample	MSBat4	2022	NA	ISCA	-42.423182	173.734117			
+KAS3			ISCA	ASW	Kaikoura	KAS3	Sample	MSBat4	2022	NA	ISCA	-42.423182	173.734117			
+KAS4			ISCA	ASW	Kaikoura	KAS4	Sample	MSBat4	2022	NA	ISCA	-42.423182	173.734117			
+KAS5			ISCA	ASW	Kaikoura	KAS5	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KKE1			ISCA	KE	Kaikoura	KKE1	Sample	MSBat1	2022	NA	ISCA	-42.423182	173.734117			
+KKE2			ISCA	KE	Kaikoura	KKE2	Sample	MSBat0	2022	NA	ISCA	-42.423182	173.734117			
+KKE3			ISCA	KE	Kaikoura	KKE3	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KKE4			ISCA	KE	Kaikoura	KKE4	Sample	MSBat3	2022	NA	ISCA	-42.423182	173.734117			
+KKE5			ISCA	KE	Kaikoura	KKE5	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KKENeg			ISCA	KE	Kaikoura		Control		2022	NA	ISCA	-42.423182	173.734117			
+KLBNeg			ISCA	LB	Kaikoura	KLBNeg	Control	MSBat4	2022	NA	ISCA	-42.423182	173.734117			
+KLB1			ISCA	LB	Kaikoura	KLB1	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KLB2			ISCA	LB	Kaikoura	KLB2	Sample	MSBat9	2022	NA	ISCA	-42.423182	173.734117			
+KLB3			ISCA	LB	Kaikoura	KLB3	Sample	MSBat5	2022	NA	ISCA	-42.423182	173.734117			
+KLB4			ISCA	LB	Kaikoura	KLB4	Sample	MSBat5	2022	NA	ISCA	-42.423182	173.734117			
+KLB5			ISCA	LB	Kaikoura	KLB5	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KMQNeg			ISCA	MQ	Kaikoura	KMQNeg	Control	MSBat8	2022	NA	ISCA	-42.423182	173.734117			
+KMQ1			ISCA	MQ	Kaikoura	KMQ1	Sample	MSBat7	2022	NA	ISCA	-42.423182	173.734117			
+KMQ2			ISCA	MQ	Kaikoura	KMQ2	Sample	MSBat8	2022	NA	ISCA	-42.423182	173.734117			
+KMQ3			ISCA	MQ	Kaikoura	KMQ3	Sample	MSBat9	2022	NA	ISCA	-42.423182	173.734117			
+KMQ4			ISCA	MQ	Kaikoura	KMQ4	Sample	MSBat7	2022	NA	ISCA	-42.423182	173.734117			
+KMQ5			ISCA	MQ	Kaikoura	KMQ5	Sample	MSBat4	2022	NA	ISCA	-42.423182	173.734117			
+KPE1			ISCA	PE	Kaikoura	KPE1	Sample	MSBat7	2022	NA	ISCA	-42.423182	173.734117			
+KPE2			ISCA	PE	Kaikoura	KPE2	Sample	MSBat0	2022	NA	ISCA	-42.423182	173.734117			
+KPE3			ISCA	PE	Kaikoura	KPE3	Sample	MSBat7	2022	NA	ISCA	-42.423182	173.734117			
+KPE4			ISCA	PE	Kaikoura	KPE4	Sample	MSBat10	2022	NA	ISCA	-42.423182	173.734117			
+KPE5			ISCA	PE	Kaikoura	KPE5	Sample	MSBat6	2022	NA	ISCA	-42.423182	173.734117			
+KPENeg			ISCA	PE	Kaikoura	KPENeg	Control	MSBat7	2022	NA	ISCA	-42.423182	173.734117			
+KSW1			ISCA	SW	Kaikoura	KSW1	Sample	MSBat5	2022	NA	ISCA	-42.423182	173.734117			
+KSW2			ISCA	SW	Kaikoura	KSW2	Sample	MSBat5	2022	NA	ISCA	-42.423182	173.734117			
+KaiW1			Seawater	Seawater	Kaikoura	KaiW1	Sample	B2_Group2	2022	NA	Seawater	-42.423182	173.734117			
+KaiW2			Seawater	Seawater	Kaikoura	KaiW2	Sample	B2_Group4	2022	NA	Seawater	-42.423182	173.734117			
+KaiWater1	GCGTCGGTACGG	William	Seawater	Seawater	Kaikoura	KaiWater1	Sample	Group14	2020	NA	Seawater	-42.423182	173.734117			
+KaiWater2	TCAATCGCTTTC	William	Seawater	Seawater	Kaikoura	KaiWater2	Sample	Group3	2020	NA	Seawater	-42.423182	173.734117			
+KaiWater3	AGTCGGCATCTC	William	Seawater	Seawater	Kaikoura	KaiWater3	Sample	Group5	2020	NA	Seawater	-42.423182	173.734117			
+KaiWater4	GTGATCGAGGGC	William	Seawater	Seawater	Kaikoura	KaiWater4	Sample	Group1	2020	NA	Seawater	-42.423182	173.734117			
+KaiS1			Substrate		Kaikoura	KaiS1	Sample	B2_Group11	2022	NA	Substrate	-42.423182	173.734117		"-43.725265, 173.157878"	
+KaiS2			Substrate		Kaikoura	KaiS2	Sample	B2_Group6	2022	NA	Substrate	-42.423182	173.734117			
+KaiSub1	ATGGACCTAGCT	William	Substrate	Substrate	Kaikoura	KaiSub1	Sample	Group2	2020	NA	Substrate	-42.423182	173.734117			
+KaiSub2	TGCGGTTGACTC	William	Substrate	Substrate	Kaikoura	KaiSub2	Sample	Group13	2020	NA	Substrate	-42.423182	173.734117			
+KaiSub3	AATCAACTAGGC	William	Substrate	Substrate	Kaikoura	KaiSub3	Sample	Group1	2020	NA	Substrate	-42.423182	173.734117			
+KaiSwab4	TCGAAACATGCA	William	Substrate	Substrate	Kaikoura	KaiSwab4	Sample	Group10	2020	NA	Substrate	-42.423182	173.734117			
+LB1			Antarctica		LeBons	LB1	Sample	B2_Group5	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB10			Antarctica		LeBons	LB10	Sample	B2_Group11	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB11			Antarctica		LeBons	LB11	Sample	B2_Group5	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB12			Antarctica		LeBons	LB12	Sample	B2_Group11	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB13			Antarctica		LeBons	LB13	Sample	B2_Group8	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB14			Antarctica		LeBons	LB14	Sample	B2_Group3	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB15			Antarctica		LeBons	LB15	Sample	B2_Group5	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB16			Antarctica		LeBons	LB16	Sample	B2_Group3	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB17			Antarctica		LeBons	LB17	Sample	B2_Group6	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB18			Antarctica		LeBons	LB18	Sample	B2_Group10	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB19			Antarctica		LeBons	LB19	Sample	B2_Group5	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB2			Antarctica		LeBons	LB2	Sample	B2_Group6	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB20			Antarctica		LeBons	LB20	Sample	B2_Group4	2022	Antarctica	Macroalgae	-43.725265	173.157878			
+LB3			Antarctica		LeBons	LB3	Sample	B2_Group9	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB4			Antarctica		LeBons	LB4	Sample	B2_Group9	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB5			Antarctica		LeBons	LB5	Sample	B2_Group5	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB6			Antarctica		LeBons	LB6	Sample	B2_Group10	2022	Antarctica	Macroalgae	-43.725265	173.157878			
+LB7			Antarctica		LeBons	LB7	Sample	B2_Group7	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB8			Antarctica		LeBons	LB8	Sample	B2_Group1	2022	Poha	Macroalgae	-43.725265	173.157878			
+LB9			Antarctica		LeBons	LB9	Sample	B2_Group9	2022	Poha	Macroalgae	-43.725265	173.157878			
+LBW1			Seawater		LeBons	LBW1	Sample	B2_Group6	2022	NA	Seawater	-43.725265	173.157878			
+LBW2			Seawater		LeBons	LBW2	Sample	B2_Group3	2022	NA	Seawater	-43.725265	173.157878			
+LBS1			Substrate		LeBons	LBS1	Sample	B2_Group4	2022	NA	Substrate	-43.725265	173.157878			
+LBS2			Substrate		LeBons	LBS2	Sample	B2_Group3	2022	NA	Substrate	-43.725265	173.157878			
+K10a			Antarctica		Munida	K10	Sample	B2_Group9	2022	NA	Macroalgae	#N/A	#N/A			
+K10b			Antarctica		Munida	K10	Sample	B2_Group3	2022	NA	Macroalgae	#N/A	#N/A			
+K10c			Antarctica		Munida	K10	Sample	B2_Group11	2022	NA	Macroalgae	#N/A	#N/A			
+K11a			Antarctica		Munida	K11	Sample	B2_Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K11b			Antarctica		Munida	K11	Sample	B2_Group5	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K11c			Antarctica		Munida	K11	Sample	B2_Group5	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K12a			Antarctica		Munida	K12	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K12a_1			Antarctica		Munida	K12	Sample	B2_Group4	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K12b			Antarctica		Munida	K12	Sample	B2_Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K12c			Antarctica		Munida	K12	Sample	B2_Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K13a			Antarctica		Munida	K13	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K13b			Antarctica		Munida	K13	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K13c			Antarctica		Munida	K13	Sample	B2_Group2	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K16b			Antarctica		Munida	K16	Sample	B2_Group10	2022	NA	Macroalgae	#N/A	#N/A			
+K1a			Antarctica		Munida	K1	Sample	B2_Group2	2022	Poha	Macroalgae	#N/A	#N/A			
+K1b			Antarctica		Munida	K1	Sample	B2_Group8	2022	Poha	Macroalgae	#N/A	#N/A			
+K1c			Antarctica		Munida	K1	Sample	B2_Group8	2022	Poha	Macroalgae	#N/A	#N/A			
+K2b			Antarctica		Munida	K2	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K2c			Antarctica		Munida	K2	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K3a			Antarctica		Munida	K3	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K3b			Antarctica		Munida	K3	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K3c			Antarctica		Munida	K3	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K4a			Antarctica		Munida	K4	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K4b			Antarctica		Munida	K4	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K4c			Antarctica		Munida	K4	Sample	B2_Group5	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K5a			Antarctica		Munida	K5	Sample	B2_Group5	2022	Poha	Macroalgae	#N/A	#N/A			
+K5b			Antarctica		Munida	K5	Sample	B2_Group11	2022	Poha	Macroalgae	#N/A	#N/A			
+K5c			Antarctica		Munida	K5	Sample	B2_Group11	2022	Poha	Macroalgae	#N/A	#N/A			
+K6a			Antarctica		Munida	K6	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K6c			Antarctica		Munida	K6	Sample	B2_Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K7a			Antarctica		Munida	K7	Sample	B2_Group11	2022	Poha	Macroalgae	#N/A	#N/A			
+K7b			Antarctica		Munida	K7	Sample	B2_Group11	2022	Poha	Macroalgae	#N/A	#N/A			
+K7c			Antarctica		Munida	K7	Sample	B2_Group11	2022	Poha	Macroalgae	#N/A	#N/A			
+K8a			Antarctica		Munida	K8	Sample	B2_Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K8b			Antarctica		Munida	K8	Sample	B2_Group4	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K8c			Antarctica		Munida	K8	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+K9a			Antarctica		Munida	K9	Sample	B2_Group3	2022	NA	Macroalgae	#N/A	#N/A			
+K9b			Antarctica		Munida	K9	Sample	B2_Group3	2022	NA	Macroalgae	#N/A	#N/A			
+K9C			Antarctica		Munida	K9	Sample	B2_Group10	2022	NA	Macroalgae	#N/A	#N/A			
+Mu1A	ATTAACTCCTAC	William	Antarctica	Blade	Munida	Mu1	Sample	Group9	2022	NA	Macroalgae	#N/A	#N/A			
+Mu1B	GTCCCTATTATC	William	Antarctica	Blade	Munida	Mu1	Sample	Group8	2022	NA	Macroalgae	#N/A	#N/A			
+Mu1C	AATGATAGATGC	William	Antarctica	Palmate	Munida	Mu1	Sample	Group8	2022	NA	Macroalgae	#N/A	#N/A			
+Mu2A	TAGGCTCGTGCT	William	Antarctica	Blade	Munida	Mu2	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu2B	TCATCGATTTAA	William	Antarctica	Blade	Munida	Mu2	Sample	Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu2C	GTATGTTTGTTC	William	Antarctica	Palmate	Munida	Mu2	Sample	Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu3A	AGTAAGTCGATA	William	Antarctica	Blade	Munida	Mu3	Sample	Group8	2022	Poha	Macroalgae	#N/A	#N/A			
+Mu3B	CAATGGTTTCTT	William	Antarctica	Blade	Munida	Mu3	Sample	Group4	2022	Poha	Macroalgae	#N/A	#N/A			
+Mu3C	GTATTTCGGACG	William	Antarctica	Palmate	Munida	Mu3	Sample	Group4	2022	Poha	Macroalgae	#N/A	#N/A			
+Mu4B	AAGGTTCCGATA	William	Antarctica	Blade	Munida	Mu4	Sample	Group4	2022	NA	Macroalgae	#N/A	#N/A			
+Mu4C	AGACATACCGTA	William	Antarctica	Palmate	Munida	Mu4	Sample	Group8	2022	NA	Macroalgae	#N/A	#N/A			
+Mu5A	GTGCTCTGTGCC	William	Antarctica	Blade	Munida	Mu5	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu5B	ATGTCTTCAACT	William	Antarctica	Blade	Munida	Mu5	Sample	Group4	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu5C	TCCTCTTTGGTC	William	Antarctica	Palmate	Munida	MU5	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Mu6A	CGATGGCGCGAC	William	Antarctica	Blade	Munida	Mu6	Sample	Group8	2022	Poha	Macroalgae	#N/A	#N/A			
+Mu6B	CGCCCGGGACAC	William	Antarctica	Blade	Munida	Mu6	Sample	Group4	2022	Poha	Macroalgae	#N/A	#N/A			
+Mu6C	ATTAGATTGGAG	William	Antarctica	Palmate	Munida	Mu6	Sample	Group4	2022	Poha	Macroalgae	#N/A	#N/A			
+MuAJ_q	AGACGACGTGGA	William	Antarctica	Palmate	Munida	MuAJ_	Sample	Group4	2022	NA	Macroalgae	#N/A	#N/A			
+MunF10a			Antarctica		Munida	MunF10	Sample	B2_Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF10b			Antarctica		Munida	MunF10	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF10c			Antarctica		Munida	MunF10	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF11a			Antarctica		Munida	MunF11	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF11b			Antarctica		Munida	MunF11	Sample	B2_Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF11c			Antarctica		Munida	MunF11	Sample	B2_Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF1a			Antarctica		Munida	MunF1	Sample	B2_Group2	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF1b			Antarctica		Munida	MunF1	Sample	B2_Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF1c			Antarctica		Munida	MunF1	Sample	B2_Group3	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF1c_1			Antarctica		Munida	MunF1	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF2a			Antarctica		Munida	MunF2	Sample	B2_Group5	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF2b			Antarctica		Munida	MunF2	Sample	B2_Group2	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF2c			Antarctica		Munida	MunF2	Sample	B2_Group1	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF3a			Antarctica		Munida	MunF3	Sample	B2_Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF3b			Antarctica		Munida	MunF3	Sample	B2_Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF3C			Antarctica		Munida	MunF3	Sample	B2_Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF4a			Antarctica		Munida	MunF4	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF4b			Antarctica		Munida	MunF4	Sample	B2_Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF4c			Antarctica		Munida	MunF4	Sample	B2_Group3	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF5a			Antarctica		Munida	MunF5	Sample	B2_Group6	2022	NA	Macroalgae	#N/A	#N/A			
+MunF5b			Antarctica		Munida	MunF5	Sample	B2_Group6	2022	NA	Macroalgae	#N/A	#N/A			
+MunF5c			Antarctica		Munida	MunF5	Sample	B2_Group7	2022	NA	Macroalgae	#N/A	#N/A			
+MunF6a			Antarctica		Munida	MunF6	Sample	B2_Group3	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF6b			Antarctica		Munida	MunF6	Sample	B2_Group1	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF6c			Antarctica		Munida	MunF6	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF7a			Antarctica		Munida	MunF7	Sample	B2_Group6	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF7b			Antarctica		Munida	MunF7	Sample	B2_Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF7c			Antarctica		Munida	MunF7	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF8a			Antarctica		Munida	MunF8	Sample	B2_Group4	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF8b			Antarctica		Munida	MunF8	Sample	B2_Group8	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF8c			Antarctica		Munida	MunF8	Sample	B2_Group10	2022	Poha	Macroalgae	#N/A	#N/A			
+MunF9a			Antarctica		Munida	MunF9	Sample	B2_Group6	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF9b			Antarctica		Munida	MunF9	Sample	B2_Group2	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunF9c			Antarctica		Munida	MunF9	Sample	B2_Group7	2022	Antarctica	Macroalgae	#N/A	#N/A			
+MunFW4			Antarctica		Munida	MunFW4	Sample	B2_Group10	2022	NA	Macroalgae	#N/A	#N/A			
+MunP1a			Antarctica		Munida	MunP1	Sample	B2_Group2	2022	Poha	Macroalgae	#N/A	#N/A			
+MunP1b			Antarctica		Munida	MunP1	Sample	B2_Group1	2022	Poha	Macroalgae	#N/A	#N/A			
+MunP2a			Antarctica		Munida	MunP2	Sample	B2_Group6	2022	Poha	Macroalgae	#N/A	#N/A			
+MunP2b			Antarctica		Munida	MunP2	Sample	B2_Group3	2022	Poha	Macroalgae	#N/A	#N/A			
+MunP2c			Antarctica		Munida	MunP2	Sample	B2_Group9	2022	Poha	Macroalgae	#N/A	#N/A			
+S10A	GATATCGATGAA	William	Antarctica	Blade	Munida	S10	Sample	Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S10B	GTGCGCCTTCTG	William	Antarctica	Blade	Munida	S10	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S10C	AGTACTGCCTGC	William	Antarctica	Palmate	Munida	S10	Sample	Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S11A	CCGTCGCTCGTA	William	Antarctica	Blade	Munida	S11	Sample	Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S11B	CGGGCGAATTGG	William	Antarctica	Blade	Munida	S11	Sample	Group10	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S11C	TTCTGGTCTTGT	William	Antarctica	Palmate	Munida	S11	Sample	Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S1A	ATGGTTCACCCG	William	Antarctica	Blade	Munida	S1	Sample	Group16	2022	NA	Macroalgae	#N/A	#N/A			
+S1B	TATTCGTATTCG	William	Antarctica	Blade	Munida	S1	Sample	Group16	2022	NA	Macroalgae	#N/A	#N/A			
+S1C	TCAATACAATAT	William	Antarctica	Palmate	Munida	S1	Sample	Group16	2022	NA	Macroalgae	#N/A	#N/A			
+S1D	GCAGATTTCCAG	William	Antarctica	Palmate	Munida	S1	Sample	Group11	2022	NA	Macroalgae	#N/A	#N/A			
+S2A	TAACACACTTAT	William	Antarctica	Blade	Munida	S2	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S2B	GCCGCTCTTTGG	William	Antarctica	Blade	Munida	S2	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S2C	GATGGCGGACTG	William	Antarctica	Palmate	Munida	S2	Sample	Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S3A	ACTATATTAGCT	William	Antarctica	Blade	Munida	S3	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S3C	ACGAAAGAGCAG	William	Antarctica	Palmate	Munida	S3	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S4A	GTAGATCGTGTA	William	Antarctica	Blade	Munida	S4	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S4B	TCCATTTCATGC	William	Antarctica	Blade	Munida	S4	Sample	Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S4C	CGATCGAACACT	William	Antarctica	Palmate	Munida	S4	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S5A	CATTAGCTGGAA	William	Antarctica	Blade	Munida	S5	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S5B	TTAGCCCAGCGT	William	Antarctica	Blade	Munida	S5	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S5C	ATCTAAGTTACT	William	Antarctica	Palmate	Munida	S5	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S6A	ATTCAGATGGCA	William	Antarctica	Blade	Munida	S6	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S6B	GAACAGCTCTAC	William	Antarctica	Blade	Munida	S6	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S6C	GAACGTCCGGAG	William	Antarctica	Palmate	Munida	S6	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S7A	AGCAAGGTCTTC	William	Antarctica	Unknown	Munida	S7	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S7A_1	GTTGTGGGCGCG	William	Antarctica	Unknown	Munida	S7	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S7B	TTGACGACATCG	William	Antarctica	Blade	Munida	S7	Sample	Group17	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S8A	CAGACTTTCATT	William	Antarctica	Blade	Munida	S8	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S8B	TTATTCTCTAGG	William	Antarctica	Blade	Munida	S8	Sample	Group8	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S8C	TTGGGTACACGT	William	Antarctica	Palmate	Munida	S8	Sample	Group9	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S9A	GCGACGCGGCAT	William	Antarctica	Blade	Munida	S9	Sample	Group11	2022	Antarctica	Macroalgae	#N/A	#N/A			
+S9C	AAGTCGACACAT	William	Antarctica	Palmate	Munida	S9	Sample	Group16	2022	Antarctica	Macroalgae	#N/A	#N/A			
+Rinse_filter	CACTTCTTTGTG	William	Control	Seawater	Munida	Rinse_filter	Control	Group4	2022	NA	Control	#N/A	#N/A			
+1_2Filter	TCGGGTGAGGCC	William	Seawater	Seawater	Munida	1_2Filter	Sample	Group8	2022	NA	Seawater	#N/A	#N/A			
+3_6filter	TGCAGATCCAAC	William	Seawater	Seawater	Munida	3_6filter	Sample	Group4	2022	NA	Seawater	#N/A	#N/A			
+5_4_Filter	TGTGATCTTTAC	William	Seawater	Seawater	Munida	5_4Filter	Sample	Group9	2022	NA	Seawater	#N/A	#N/A			
+KW1			Seawater		Munida	KW1	Sample	B2_Group11	2022	NA	Seawater	#N/A	#N/A			
+KW11_12			Seawater		Munida	"KW11,12"	Sample	B2_Group10	2022	NA	Seawater	#N/A	#N/A			
+KW13			Seawater		Munida	KW13	Sample	B2_Group8	2022	NA	Seawater	#N/A	#N/A			
+KW3_4_5			Seawater		Munida	"KW3,4,5"	Sample	B2_Group2	2022	NA	Seawater	#N/A	#N/A			
+KW6_7_8			Seawater		Munida	"KW6,7,8"	Sample	B2_Group5	2022	NA	Seawater	#N/A	#N/A			
+KW9_10			Seawater		Munida	"KW9,10"	Sample	B2_Group1	2022	NA	Seawater	#N/A	#N/A			
+MunPW1			Seawater		Munida	MunPW1	Sample	B2_Group4	2022	NA	Seawater	#N/A	#N/A			
+MunPW2			Seawater		Munida	MunPW2	Sample	B2_Group3	2022	NA	Seawater	#N/A	#N/A			
+W11	CGGATAACCTCC	William	Seawater	Seawater	Munida	W11	Sample	Group10	2022	NA	Seawater	#N/A	#N/A			
+W1W2	TACCAATCGGTG	William	Seawater	Seawater	Munida	W1W2	Sample	Group10	2022	NA	Seawater	#N/A	#N/A			
+W3_Munida_	ACTTACGCCACG	William	Seawater	Seawater	Munida	W3_Munida_	Sample	Group9	2022	NA	Seawater	#N/A	#N/A			
+W4_3_6	GCTATCAAGACA	William	Seawater	Seawater	Munida	W4_3_6	Sample	Group10	2022	NA	Seawater	#N/A	#N/A			
+W7_10	GCGTCATGCATC	William	Seawater	Seawater	Munida	W7_10	Sample	Group10	2022	NA	Seawater	#N/A	#N/A			
+S9B	AAGCTCTCCCAG	William	Unknown	Unknown	Munida	S9B_2	Sample	Group11	2022	NA	Substrate	#N/A	#N/A			
+S9B_1	TGTCGTCCCGCC	William	Unknown	Unknown	Munida	S9B_1	Sample	Group11	2022	NA	Substrate	#N/A	#N/A			
+MSBat0Neg			ISCA	ExtractionNegative	NA	MSBat0Neg	Control	MSBat0	2022	NA	ISCA	#N/A	#N/A			
+MSBat10Neg			ISCA	ExtractionNegative	NA	MSBat10Neg	Control	MSBat10	2022	NA	ISCA	#N/A	#N/A			
+MSBat1Neg			ISCA	ExtractionNegative	NA	MSBat1Neg	Control	MSBat1	2022	NA	ISCA	#N/A	#N/A			
+MSBat3Neg			ISCA	ExtractionNegative	NA	MSBat3Neg	Control	MSBat3	2022	NA	ISCA	#N/A	#N/A			
+MSBat4Neg			ISCA	ExtractionNegative	NA	MSBat4Neg	Control	MSBat4	2022	NA	ISCA	#N/A	#N/A			
+MSBat5Neg			ISCA	ExtractionNegative	NA	MSBat5Neg	Control	MSBat5	2022	NA	ISCA	#N/A	#N/A			
+MSBat6Neg			ISCA	ExtractionNegative	NA	MSBat6Neg	Control	MSBat6	2022	NA	ISCA	#N/A	#N/A			
+MSBat7Neg			ISCA	ExtractionNegative	NA	MSBat7Neg	Control	MSBat7	2022	NA	ISCA	#N/A	#N/A			
+MSBat8Neg			ISCA	ExtractionNegative	NA	MSBat8Neg	Control	MSBat8	2022	NA	ISCA	#N/A	#N/A			
+MSBat9Neg			ISCA	ExtractionNegative	NA	MSBat9Neg	Control	MSBat9	2022	NA	ISCA	#N/A	#N/A			
+PPT1			Antarctica		Papatowai	PPT1	Sample	B2_Group4	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT10			Antarctica		Papatowai	PPT10	Sample	B2_Group10	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT2			Antarctica		Papatowai	PPT2	Sample	B2_Group1	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT3			Antarctica		Papatowai	PPT3	Sample	B2_Group9	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT4			Antarctica		Papatowai	PPT4	Sample	B2_Group8	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT5			Antarctica		Papatowai	PPT5	Sample	B2_Group2	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT6			Antarctica		Papatowai	PPT6	Sample	B2_Group7	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT7			Antarctica		Papatowai	PPT7	Sample	B2_Group1	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT8			Antarctica		Papatowai	PPT8	Sample	B2_Group9	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPT9			Antarctica		Papatowai	PPT9	Sample	B2_Group8	2022	Poha	Macroalgae	-46.581568	169.489333			
+PPTW1			Seawater		Papatowai	PPTW1	Sample	B2_Group1	2022	NA	Seawater	-46.581568	169.489333			
+PPTW2			Seawater		Papatowai	PPTW2	Sample	B2_Group10	2022	NA	Seawater	-46.581568	169.489333			
+PPTS1			Substrate		Papatowai	PPTS1	Sample	B2_Group4	2022	NA	Substrate	-46.581568	169.489333			
+PPTS2			Substrate		Papatowai	PPTS2	Sample	B2_Group2	2022	NA	Substrate	-46.581568	169.489333			
+RRG1			Antarctica		Rarangi	RRG1	Sample	B2_Group9	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG10			Antarctica		Rarangi	RRG10	Sample	B2_Group1	2022	NA	Macroalgae	-41.401016	174.079757			
+RRG2			Antarctica		Rarangi	RRG2	Sample	B2_Group11	2022	Poha	Macroalgae	-41.401016	174.079757			
+RRG3			Antarctica		Rarangi	RRG3	Sample	B2_Group4	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG4			Antarctica		Rarangi	RRG4	Sample	B2_Group5	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG5			Antarctica		Rarangi	RRG5	Sample	B2_Group7	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG6			Antarctica		Rarangi	RRG6	Sample	B2_Group5	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG7			Antarctica		Rarangi	RRG7	Sample	B2_Group8	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG8			Antarctica		Rarangi	RRG8	Sample	B2_Group3	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRG9			Antarctica		Rarangi	RRG9	Sample	B2_Group9	2022	Antarctica	Macroalgae	-41.401016	174.079757			
+RRGW1			Seawater		Rarangi	RRGW1	Sample	B2_Group6	2022	NA	Seawater	-41.401016	174.079757			
+RRGW2			Seawater		Rarangi	RRGW2	Sample	B2_Group7	2022	NA	Seawater	-41.401016	174.079757			
+RRGS1			Substrate		Rarangi	RRGS1	Sample	B2_Group7	2022	NA	Substrate	-41.401016	174.079757			
+RRGS2			Substrate		Rarangi	RRGS2	Sample	B2_Group11	2022	NA	Substrate	-41.401016	174.079757			
+SIA1A			Antarctica		StewartIsland	SIA1A	Sample	B2_Group10	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA1b			Antarctica		StewartIsland	SIA1b	Sample	B2_Group8	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA2a			Antarctica		StewartIsland	SIA2a	Sample	B2_Group3	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA2b			Antarctica		StewartIsland	SIA2b	Sample	B2_Group8	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA3a			Antarctica		StewartIsland	SIA3a	Sample	B2_Group2	2022	NA	Macroalgae	-47.147193	167.952946			
+SIA3b			Antarctica		StewartIsland	SIA3b	Sample	B2_Group11	2022	NA	Macroalgae	-47.147193	167.952946			
+SIA4a			Antarctica		StewartIsland	SIA4a	Sample	B2_Group4	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA5a			Antarctica		StewartIsland	SIA5a	Sample	B2_Group6	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA5b			Antarctica		StewartIsland	SIA5b	Sample	B2_Group9	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA6a			Antarctica		StewartIsland	SIA6a	Sample	B2_Group2	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA6b			Antarctica		StewartIsland	SIA6b	Sample	B2_Group4	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIA4b			Antarctica		StewartIsland	SIA4b	Sample	B2_Group1	2022	Poha	Macroalgae	-47.147193	167.952946			
+SIW1			Seawater		StewartIsland	SIW1	Sample	B2_Group7	2022	NA	Seawater	-47.147193	167.952946			
+SISub			Substrate		StewartIsland	SISub	Sample	B2_Group4	2022	NA	Substrate	-47.147193	167.952946			
+SISub2			Substrate		StewartIsland	SISub2	Sample	B2_Group6	2022	NA	Substrate	-47.147193	167.952946			
+AK1			Antarctica		Wainui	AK1	Sample	B2_Group1	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK10			Antarctica		Wainui	AK10	Sample	B2_Group11	2022	NA	Macroalgae	-43.911869	172.977421			
+AK2			Antarctica		Wainui	AK2	Sample	B2_Group2	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK3			Antarctica		Wainui	AK3	Sample	B2_Group6	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK4			Antarctica		Wainui	AK4	Sample	B2_Group11	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK5			Antarctica		Wainui	AK5	Sample	B2_Group3	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK6			Antarctica		Wainui	AK6	Sample	B2_Group8	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK7			Antarctica		Wainui	AK7	Sample	B2_Group6	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK8			Antarctica		Wainui	AK8	Sample	B2_Group5	2022	Poha	Macroalgae	-43.911869	172.977421			
+AK9			Antarctica		Wainui	AK9	Sample	B2_Group10	2022	NA	Macroalgae	-43.911869	172.977421			
+AKW1			Seawater	Seawater	Wainui	AKW1	Sample	B2_Group11	2022	NA	Seawater	-43.911869	172.977421			
+AKW2			Seawater	Seawater	Wainui	AKW2	Sample	B2_Group7	2022	NA	Seawater	-43.911869	172.977421			
+AKS1			Substrate		Wainui	AKS1	Sample	B2_Group1	2022	NA	Substrate	-43.911869	172.977421			
+AKS2			Substrate		Wainui	AKS2	Sample	B2_Group4	2022	NA	Substrate	-43.911869	172.977421			
+WaipJ1A	CGTCGTCTAAGA	William	Antarctica	Blade	Waipapa	WaipJ1	Sample	Group4	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ1B	GTATGGAGCTAT	William	Antarctica	Blade	Waipapa	WaipJ1	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA10A	TAATATTTCGAC	William	Antarctica	Blade	Waipapa	WaipA10	Sample	Group2	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA10B	CAGCCGCATATC	William	Antarctica	Blade	Waipapa	WaipA10	Sample	Group1	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA10C	CCATCTTACCAT	William	Antarctica	Palmate	Waipapa	WaipA10	Sample	Group3	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA11A	AAGCACGTCTCA	William	Antarctica	Blade	Waipapa	WaipA11	Sample	Group5	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA11B	AGTGAAATACTG	William	Antarctica	Blade	Waipapa	WaipA11	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA11C	AGCCGACTCTGT	William	Antarctica	Palmate	Waipapa	WaipA11	Sample	Group1	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA12A	TAGAGGCGTAGG	William	Antarctica	Blade	Waipapa	WaipA12	Sample	Group1	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA12B	CATGGGTGTTAC	William	Antarctica	Blade	Waipapa	WaipA12	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA12C	ATGAGGGTCGCG	William	Antarctica	Palmate	Waipapa	WaipA12	Sample	Group8	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA1A	TACCGGCTTGCA	William	Antarctica	Blade	Waipapa	WaipA1	Sample	Group2	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA1B	GGAAGAAGTAGC	William	Antarctica	Blade	Waipapa	WaipA1	Sample	Group5	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA1C	CCGTGGACCAGG	William	Antarctica	Palmate	Waipapa	WaipA1	Sample	Group3	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA3	CCAATTTGTACT	William	Antarctica	Pooled	Waipapa	WaipA3	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+Waipa3A	CGTTTCAAGGAC	William	Antarctica	Blade	Waipapa	WaipA3	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA3B	GTATTATGACTT	William	Antarctica	Blade	Waipapa	WaipA3	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA3C	GTTCAACAGCTG	William	Antarctica	Palmate	Waipapa	WaipA3	Sample	Group13	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA4A	CCAGCCTTCAGA	William	Antarctica	Blade	Waipapa	WaipA4	Sample	Group1	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA4B	TGTCTACATACT	William	Antarctica	Blade	Waipapa	WaipA4	Sample	Group6	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA4C	AGGTTAAGTGCT	William	Antarctica	Palmate	Waipapa	WaipA4	Sample	Group2	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA5A	GAGCAACATCCT	William	Antarctica	Blade	Waipapa	WaipA5	Sample	Group7	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA5B	GCCGGTACTCTA	William	Antarctica	Blade	Waipapa	WaipA5	Sample	Group7	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA5C	GTTATCGCATGG	William	Antarctica	Palmate	Waipapa	WaipA5	Sample	Group12	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA6	ACAGCATAGCTC	William	Antarctica	Palmate	Waipapa	WaipA6	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA6A	TGCAGGGAACCG	William	Antarctica	Blade	Waipapa	WaipA6	Sample	Group6	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA6B	CTTTGGGCCGCT	William	Antarctica	Blade	Waipapa	WaipA6	Sample	Group15	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA6C	GGAGTGCCCGAA	William	Antarctica	Palmate	Waipapa	WaipA6	Sample	Group10	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA7	CCTAGCCCTAGC	William	Antarctica	Pooled	Waipapa	WaipA7	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA7A	CTATTAAGCGGC	William	Antarctica	Blade	Waipapa	WaipA7	Sample	Group8	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA7B	TGACCTCAAGAC	William	Antarctica	Blade	Waipapa	WaipA7	Sample	Group5	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA7C	AGGACCTCGTTC	William	Antarctica	Palmate	Waipapa	WaipA7	Sample	Group5	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA8A	GACGACATTTAG	William	Antarctica	Blade	Waipapa	WaipA8	Sample	Group10	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA8B	GATTGAACGCTA	William	Antarctica	Blade	Waipapa	WaipA8	Sample	Group6	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA9A	TCACGCCGGAGG	William	Antarctica	Blade	Waipapa	WaipA9	Sample	Group14	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA9B	CAGCGCGGCTAG	William	Antarctica	Blade	Waipapa	WaipA9	Sample	Group11	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipA9C	CACATATTGGGC	William	Antarctica	Palmate	Waipapa	WaipA9	Sample	Group16	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ1C	CCTCTCGGGTTG	William	Antarctica	Palmate	Waipapa	WaipJ1	Sample	Group4	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ2A	GATCTGCGATCC	William	Antarctica	Blade	Waipapa	WaipJ2	Sample	Group3	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ2B	TGTGTTACTCCT	William	Antarctica	Blade	Waipapa	WaipJ2	Sample	Group13	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ2C	CTTGAACCCGAC	William	Antarctica	Palmate	Waipapa	WaipJ2	Sample	Group6	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ4A	GAATACCAAGTC	William	Antarctica	Blade	Waipapa	WaipJ4	Sample	Group15	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ4B	GGCGGGTCTAGA	William	Antarctica	Blade	Waipapa	WaipJ4	Sample	Group12	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ4C	ACGCACATACAA	William	Antarctica	Palmate	Waipapa	WaipJ4	Sample	Group15	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ5	CTTGGTAGTGCC	William	Antarctica	Pooled	Waipapa	WaipJ5	Sample	NoGroup	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ5A	TCTATCTGGCTT	William	Antarctica	Blade	Waipapa	WaipJ5	Sample	Group2	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ5B	AACGCGAAATTC	William	Antarctica	Blade	Waipapa	WaipJ5	Sample	Group4	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipJ5C	GCCGAACGCCGA	William	Antarctica	Palmate	Waipapa	WaipJ5	Sample	Group3	2020	Antarctica	Macroalgae	-42.223364	173.887253			
+WaipRODI	CCGTCAAGATGT	William	Control	RODI Water	Waipapa	WaipRODI	Control	Group13	2022	NA	Control	-42.223364	173.887253			
+WaiAS1			ISCA	ASW	Waipapa	WaiAS1	Sample	MSBat9	2022	NA	ISCA	-42.223364	173.887253			
+WaiAS2			ISCA	ASW	Waipapa	WaiAS2	Sample	MSBat6	2022	NA	ISCA	-42.223364	173.887253			
+WaiAS3			ISCA	ASW	Waipapa	WaiAS3	Sample	MSBat5	2022	NA	ISCA	-42.223364	173.887253			
+WaiAS4			ISCA	ASW	Waipapa	WaiAS4	Sample	MSBat10	2022	NA	ISCA	-42.223364	173.887253			
+WaiAS5			ISCA	ASW	Waipapa	WaiAS5	Sample	MSBat8	2022	NA	ISCA	-42.223364	173.887253			
+WaiASNeg			ISCA	ASW	Waipapa		Control		2022	NA	ISCA	-42.223364	173.887253			
+WaiK5			ISCA	KE	Waipapa	WaiK5	Sample	MSBat3	2022	NA	ISCA	-42.223364	173.887253			
+WaiKE1			ISCA	KE	Waipapa	WaiKE1	Sample	MSBat1	2022	NA	ISCA	-42.223364	173.887253			
+WaiKE2			ISCA	KE	Waipapa	WaiKE2	Sample	MSBat4	2022	NA	ISCA	-42.223364	173.887253			
+WaiKE3			ISCA	KE	Waipapa	WaiKE3	Sample	MSBat8	2022	NA	ISCA	-42.223364	173.887253			
+WaiKE4			ISCA	KE	Waipapa	WaiKE4	Sample	MSBat3	2022	NA	ISCA	-42.223364	173.887253			
+WaiKENeg			ISCA	KE	Waipapa		Control		2022	NA	ISCA	-42.223364	173.887253			
+WaiLBNeg			ISCA	LB	Waipapa	WaiLBNeg	Control	MSBat6	2022	NA	ISCA	-42.223364	173.887253			
+WaiLB1			ISCA	LB	Waipapa	WaiLB1	Sample	MSBat6	2022	NA	ISCA	-42.223364	173.887253			
+WaiLB2			ISCA	LB	Waipapa	WaiLB2	Sample	MSBat9	2022	NA	ISCA	-42.223364	173.887253			
+WaiLB3			ISCA	LB	Waipapa	WaiLB3	Sample	MSBat5	2022	NA	ISCA	-42.223364	173.887253			
+WaiLB4			ISCA	LB	Waipapa	WaiLB4	Sample	MSBat6	2022	NA	ISCA	-42.223364	173.887253			
+WaiLB5			ISCA	LB	Waipapa	WaiLB5	Sample	MSBat7	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQNeg			ISCA	MQ	Waipapa	WaiMQNeg	Control	MSBat7	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQ1			ISCA	MQ	Waipapa	WaiMQ1	Sample	MSBat3	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQ2			ISCA	MQ	Waipapa	WaiMQ2	Sample	MSBat7	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQ3			ISCA	MQ	Waipapa	WaiMQ3	Sample	MSBat9	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQ4			ISCA	MQ	Waipapa	WaiMQ4	Sample	MSBat4	2022	NA	ISCA	-42.223364	173.887253			
+WaiMQ5			ISCA	MQ	Waipapa	WaiMQ5	Sample	MSBat5	2022	NA	ISCA	-42.223364	173.887253			
+WaiPE1			ISCA	PE	Waipapa	WaiPE1	Sample	MSBat1	2022	NA	ISCA	-42.223364	173.887253			
+WaiPE2			ISCA	PE	Waipapa	WaiPE2	Sample	MSBat9	2022	NA	ISCA	-42.223364	173.887253			
+WaiPE3			ISCA	PE	Waipapa	WaiPE3	Sample	MSBat3	2022	NA	ISCA	-42.223364	173.887253			
+WaiPE4			ISCA	PE	Waipapa	WaiPE4	Sample	MSBat4	2022	NA	ISCA	-42.223364	173.887253			
+WaiPE5			ISCA	PE	Waipapa	WaiPE5	Sample	MSBat5	2022	NA	ISCA	-42.223364	173.887253			
+WaiPENeg			ISCA	PE	Waipapa		Control		2022	NA	ISCA	-42.223364	173.887253			
+WaiW1			ISCA	SW	Waipapa	WaiW1	Sample	MSBat4	2022	NA	ISCA	-42.223364	173.887253			
+WaiW2			ISCA	SW	Waipapa	WaiW2	Sample	MSBat10	2022	NA	ISCA	-42.223364	173.887253			
+WaipWater1	ACCCTCAGCCCA	William	Seawater	Seawater	Waipapa	WaipWater1	Sample	Group13	2020	NA	Seawater	-42.223364	173.887253			
+WaipWater2	TTAAACCGCGCC	William	Seawater	Seawater	Waipapa	WaipWater2	Sample	Group7	2020	NA	Seawater	-42.223364	173.887253			
+WaipWater3	TACGAGCCCTAA	William	Seawater	Seawater	Waipapa	WaipWater3	Sample	Group3	2020	NA	Seawater	-42.223364	173.887253			
+WaipWater4	CTAGCCCGTTCG	William	Seawater	Seawater	Waipapa	WaipWater4	Sample	Group2	2020	NA	Seawater	-42.223364	173.887253			
+WaiWater1			Seawater		Waipapa	WaiWater1	Sample	B2_Group10	2022	NA	Seawater	-42.223364	173.887253			
+WaiWater2			Seawater		Waipapa	WaiWater2	Sample	B2_Group7	2022	NA	Seawater	-42.223364	173.887253			
+WaipSub1	CATGTGCTTAGG	William	Substrate	Substrate	Waipapa	WaipSub1	Sample	Group2	2020	NA	Substrate	-42.223364	173.887253			
+WaipSub2	CCTCGGGTACTA	William	Substrate	Substrate	Waipapa	WaipSub2	Sample	Group16	2020	NA	Substrate	-42.223364	173.887253			
+WaipSub3	AGCGAGAAGTGA	William	Substrate	Substrate	Waipapa	WaipSub3	Sample	Group7	2020	NA	Substrate	-42.223364	173.887253			
+WhaA10A	CATACTTGTCTA	William	Antarctica	Blade	Ward	WhaA10	Sample	Group5	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA10B	GCAGACGGAACC	William	Antarctica	Blade	Ward	WhaA10	Sample	Group13	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA10C	TACGACTCTGGC	William	Antarctica	Palmate	Ward	WhaA10	Sample	Group3	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA11A	GCAGGGTCGAAC	William	Antarctica	Blade	Ward	WhaA11	Sample	Group13	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA11B	AGTGACTGTCAA	William	Antarctica	Blade	Ward	WhaA11	Sample	Group7	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA11C	CGGGCTTCATCA	William	Antarctica	Palmate	Ward	WhaA11	Sample	Group12	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA12A	CCACGTACGTAA	William	Antarctica	Blade	Ward	WhaA12	Sample	Group6	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA12B	CATAGGCCATCA	William	Antarctica	Blade	Ward	WhaA12	Sample	Group12	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA12C	CTAATTCTCTGC	William	Antarctica	Palmate	Ward	WhaA12	Sample	Group12	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA1A	AGCAGCTATTGC	William	Antarctica	Blade	Ward	WhaA1	Sample	Group5	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA1B	CTGCCCTCGATG	William	Antarctica	Blade	Ward	WhaA1	Sample	Group7	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA1C	GCAACCGATTGT	William	Antarctica	Palmate	Ward	WhaA1	Sample	Group14	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA2A	AGCCACCCGGGA	William	Antarctica	Blade	Ward	WhaA2	Sample	Group7	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA2B	GCTACAAGCCCT	William	Antarctica	Blade	Ward	WhaA2	Sample	Group9	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA2C	CCTGGAATTAAG	William	Antarctica	Palmate	Ward	WhaA2	Sample	Group11	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA3A	ACTAGCGTTCAG	William	Antarctica	Blade	Ward	WhaA3	Sample	Group15	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA3B	AGCTGCACCTAA	William	Antarctica	Blade	Ward	WhaA3	Sample	Group12	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA4A	AGGTCATCTTGG	William	Antarctica	Blade	Ward	WhaA4	Sample	Group4	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA4B	CTCGGATAGATC	William	Antarctica	Blade	Ward	WhaA4	Sample	Group13	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA5A	TGACAACCGAAT	William	Antarctica	Blade	Ward	WhaA5	Sample	Group16	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA5C	CTGTCCCGCAGT	William	Antarctica	Palmate	Ward	WhaA5	Sample	Group1	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA6A	TTCGAAACTTTC	William	Antarctica	Blade	Ward	WhaA6	Sample	Group6	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA6B	CGCGTTCCCAGT	William	Antarctica	Blade	Ward	WhaA6	Sample	Group15	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA6C	CATGACGCCTCC	William	Antarctica	Palmate	Ward	WhaA6	Sample	Group15	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA7B	CATGCCAACATG	William	Antarctica	Blade	Ward	WhaA7	Sample	Group12	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA7C	GTGCTAATAGGT	William	Antarctica	Unknown	Ward	WhaA7	Sample	Group10	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA7C_1	AGCTAAATGGAT	William	Antarctica	Unknown	Ward	WhaA7	Sample	Group10	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA8A	TCCGCAACCTGA	William	Antarctica	Blade	Ward	WhaA8	Sample	Group11	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA8B	TGTCCTATCAAT	William	Antarctica	Blade	Ward	WhaA8	Sample	Group3	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA8C	ACGGGCACGACA	William	Antarctica	Palmate	Ward	WhaA8	Sample	Group3	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA9A	TACGCAGCACTA	William	Antarctica	Blade	Ward	WhaA9	Sample	Group8	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA9B	CGACGAGATTAT	William	Antarctica	Blade	Ward	WhaA9	Sample	Group16	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaA9C	GACTGGAGATGG	William	Antarctica	Palmate	Ward	WhaA9	Sample	Group2	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaAC3	GCGAGCGAAGTA	William	Antarctica	Palmate	Ward	WhaAC	Sample	Group3	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaAC4	CATCAGTACGCC	William	Antarctica	Palmate	Ward	WhaAC	Sample	Group16	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ1A	AACACATGGGTT	William	Antarctica	Blade	Ward	WhaJ1	Sample	Group5	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ1B	TGGGTCCCACAT	William	Antarctica	Blade	Ward	WhaJ1	Sample	Group5	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ1C	CGATCCGATCTG	William	Antarctica	Palmate	Ward	WhaJ1	Sample	Group5	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ2	CAGAACATAGAT	William	Antarctica	Pooled	Ward	WhaJ2	Sample	NoGroup	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ2A	CTCGCTAGATAG	William	Antarctica	Blade	Ward	WhaJ2	Sample	Group1	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ2B	GTCCCGTGAAAT	William	Antarctica	Blade	Ward	WhaJ2	Sample	Group9	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ2C	CGAGATAGTTTG	William	Antarctica	Palmate	Ward	WhaJ2	Sample	Group4	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ3A	ACTTCATCGTAT	William	Antarctica	Blade	Ward	WhaJ3	Sample	Group1	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ3B	AGGCGGCCCATG	William	Antarctica	Blade	Ward	WhaJ3	Sample	Group7	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ3C	CCGCTGATGTCA	William	Antarctica	Palmate	Ward	WhaJ3	Sample	Group2	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ4A	GAGGGTTGTCGG	William	Antarctica	Blade	Ward	WhaJ4	Sample	Group15	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ4B	ATCACCAGGTGT	William	Antarctica	Blade	Ward	WhaJ4	Sample	Group4	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ4C	ACTCCACGCTCG	William	Antarctica	Palmate	Ward	WhaJ4	Sample	Group6	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ5A	GATTATCGACGA	William	Antarctica	Blade	Ward	WhaJ5	Sample	Group1	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ5B	GTCTAGTATTTC	William	Antarctica	Blade	Ward	WhaJ5	Sample	Group17	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ5C	CCAGTTCCAAAG	William	Antarctica	Palmate	Ward	WhaJ5	Sample	Group6	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ6A	ACAAATCGTTGG	William	Antarctica	Blade	Ward	WhaJ6	Sample	Group6	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ6B	CGGCGCATTATA	William	Antarctica	Blade	Ward	WhaJ6	Sample	Group7	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WhaJ6C	ACCCAGTATGGT	William	Antarctica	Palmate	Ward	WhaJ6	Sample	Group2	2020	Antarctica	Macroalgae	-41.862762	174.225854			
+WRD1_1			Antarctica		Ward	WRD1	Sample	B2_Group7	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD10			Antarctica		Ward	WRD10	Sample	B2_Group7	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD2			Antarctica		Ward	WRD2	Sample	B2_Group2	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD3			Antarctica		Ward	WRD3	Sample	B2_Group2	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD4			Antarctica		Ward	WRD4	Sample	B2_Group5	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD5			Antarctica		Ward	WRD5	Sample	B2_Group7	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD6			Antarctica		Ward	WRD6	Sample	B2_Group8	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD7			Antarctica		Ward	WRD7	Sample	B2_Group5	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD8			Antarctica		Ward	WRD8	Sample	B2_Group5	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRD9			Antarctica		Ward	WRD9	Sample	B2_Group6	2022	Antarctica	Macroalgae	-41.87276	174.2359			
+WRDW1_1			Antarctica		Ward	WRDW1	Sample	B2_Group4	2022	NA	Macroalgae	-41.87276	174.2359			
+WhaRODI	ACTCGTGATAGC	William	Control	RODI Water	Ward	WhaRODI	Control	Group7	2022	NA	Control	-41.87276	174.2359			
+WRDASNeg			ISCA	ASW	Ward	WRDASNeg	Control	MSBat3	2022	NA	ISCA	-41.87276	174.2359			
+WRDAS1			ISCA	ASW	Ward	WRDAS1	Sample	MSBat10	2022	NA	ISCA	-41.87276	174.2359			
+WRDAS2			ISCA	ASW	Ward	WRDAS2	Sample	MSBat3	2022	NA	ISCA	-41.87276	174.2359			
+WRDAS3			ISCA	ASW	Ward	WRDAS3	Sample	MSBat6	2022	NA	ISCA	-41.87276	174.2359			
+WRDAS4			ISCA	ASW	Ward	WRDAS4	Sample	MSBat7	2022	NA	ISCA	-41.87276	174.2359			
+WRDAS5			ISCA	ASW	Ward	WRDAS5	Sample	MSBat6	2022	NA	ISCA	-41.87276	174.2359			
+WRDKE1			ISCA	KE	Ward	WRDKE1	Sample	MSBat4	2022	NA	ISCA	-41.87276	174.2359			
+WRDKE2			ISCA	KE	Ward	WRDKE2	Sample	MSBat1	2022	NA	ISCA	-41.87276	174.2359			
+WRDKE3			ISCA	KE	Ward	WRDKE3	Sample	MSBat7	2022	NA	ISCA	-41.87276	174.2359			
+WRDKE4			ISCA	KE	Ward	WRDKE4	Sample	MSBat4	2022	NA	ISCA	-41.87276	174.2359			
+WRDKE5			ISCA	KE	Ward	WRDKE5	Sample	MSBat8	2022	NA	ISCA	-41.87276	174.2359			
+WRDKENeg			ISCA	KE	Ward		Control		2022	NA	ISCA	-41.87276	174.2359			
+WRDLBNeg			ISCA	LB	Ward	WRDLBNeg	Control	MSBat1	2022	NA	ISCA	-41.87276	174.2359			
+WRDLB1			ISCA	LB	Ward	WRDLB1	Sample	MSBat10	2022	NA	ISCA	-41.87276	174.2359			
+WRDLB2			ISCA	LB	Ward	WRDLB2	Sample	MSBat8	2022	NA	ISCA	-41.87276	174.2359			
+WRDLB3			ISCA	LB	Ward	WRDLB3	Sample	MSBat7	2022	NA	ISCA	-41.87276	174.2359			
+WRDLB4			ISCA	LB	Ward	WRDLB4	Sample	MSBat1	2022	NA	ISCA	-41.87276	174.2359			
+WRDLB5			ISCA	LB	Ward	WRDLB5	Sample	MSBat7	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQNeg			ISCA	MQ	Ward	WRDMQNeg	Control	MSBat3	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQ1			ISCA	MQ	Ward	WRDMQ1	Sample	MSBat6	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQ2			ISCA	MQ	Ward	WRDMQ2	Sample	MSBat9	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQ3			ISCA	MQ	Ward	WRDMQ3	Sample	MSBat8	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQ4			ISCA	MQ	Ward	WRDMQ4	Sample	MSBat3	2022	NA	ISCA	-41.87276	174.2359			
+WRDMQ5			ISCA	MQ	Ward	WRDMQ5	Sample	MSBat1	2022	NA	ISCA	-41.87276	174.2359			
+WRDPENeg			ISCA	PE	Ward	WRDPENeg	Control	MSBat0	2022	NA	ISCA	-41.87276	174.2359			
+WRDPE1			ISCA	PE	Ward	WRDPE1	Sample	MSBat7	2022	NA	ISCA	-41.87276	174.2359			
+WRDPE2			ISCA	PE	Ward	WRDPE2	Sample	MSBat8	2022	NA	ISCA	-41.87276	174.2359			
+WRDPE3			ISCA	PE	Ward	WRDPE3	Sample	MSBat10	2022	NA	ISCA	-41.87276	174.2359			
+WRDPE4			ISCA	PE	Ward	WRDPE4	Sample	MSBat8	2022	NA	ISCA	-41.87276	174.2359			
+WRDPE5			ISCA	PE	Ward	WRDPE5	Sample	MSBat1	2022	NA	ISCA	-41.87276	174.2359			
+WRDW1			ISCA	SW	Ward	WRDW1	Sample	MSBat9	2022	NA	ISCA	-41.87276	174.2359			
+WRDW2			ISCA	SW	Ward	WRDW2	Sample	MSBat9	2022	NA	ISCA	-41.87276	174.2359			
+WhaWater1	TCAGCCTCAGCC	William	Seawater	Seawater	Ward	WhaWater1	Sample	Group15	2020	NA	Seawater	-41.87276	174.2359			
+Whawater2	CAAGCCCTAGTA	William	Seawater	Seawater	Ward	Whawater2	Sample	Group5	2020	NA	Seawater	-41.87276	174.2359			
+WhaWater4	TGTACCAACCGA	William	Seawater	Seawater	Ward	WhaWater4	Sample	Group10	2020	NA	Seawater	-41.87276	174.2359			
+Whawatwer3	GCCTCGTACTGA	William	Seawater	Seawater	Ward	Whawatwer3	Sample	Group15	2020	NA	Seawater	-41.87276	174.2359			
+WRDW2_1			Seawater		Ward	WRDW2	Sample	B2_Group8	2022	NA	Seawater	-41.87276	174.2359			
+WhaSub1	GCTGTGATTCGA	William	Substrate	Substrate	Ward	WhaSub1	Sample	Group14	2020	NA	Substrate	-41.87276	174.2359			
+WhaSub2	AAGGTCAATCGT	William	Substrate	Substrate	Ward	WhaSub2	Sample	Group1	2020	NA	Substrate	-41.87276	174.2359			
+WhaSub3	GACCGATAGGGA	William	Substrate	Substrate	Ward	WhaSub3	Sample	Group7	2020	NA	Substrate	-41.87276	174.2359			
+WhaSub4	CAGAGTGCCGGC	William	Substrate	Substrate	Ward	WhaSub4	Sample	Group12	2020	NA	Substrate	-41.87276	174.2359			
+WRDS1			Substrate		Ward	WRDS1	Sample	B2_Group3	2022	NA	Substrate	-41.87276	174.2359			
+WRDS2			Substrate		Ward	WRDS2	Sample	B2_Group2	2022	NA	Substrate	-41.87276	174.2359			
+WPT1			Antarctica		Westport	WPT1	Sample	B2_Group6	2022	Antarctica	Macroalgae	-41.738943	171.475859			
+WPT2			Antarctica		Westport	WPT2	Sample	B2_Group8	2022	Antarctica	Macroalgae	-41.738943	171.475859			
+WPTW1			Seawater		Westport	WPTW1	Sample	B2_Group10	2022	NA	Seawater	-41.738943	171.475859			
