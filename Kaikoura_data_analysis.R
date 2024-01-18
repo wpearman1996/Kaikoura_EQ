@@ -173,7 +173,7 @@ bdiv_res_SW<-(betadisper(bdiv_SW,
 boxplot(bdiv_res_SW)
 anova(bdiv_res_SW)
 
-permanova_water <- adonis2(phyloseq::distance(ASV_Water,method="bray") ~ ASV_Water@sam_data$Uplift,
+permanova_water <- adonis2(phyloseq::distance(ASV_Water,method="bray",binary=T) ~ ASV_Water@sam_data$Uplift,
                            permutations=999)
 
 bdiv_sub<-betadiver(t(ASV_Sub@otu_table@.Data),triangular=F,method=1)
@@ -182,7 +182,7 @@ bdiv_res_sub<-(betadisper(bdiv_sub,
 
 boxplot(bdiv_res_sub)
 anova(bdiv_res_sub)
-permanova_sub <- adonis2(phyloseq::distance(ASV_Sub,method="bray") ~ ASV_Sub@sam_data$Uplift,
+permanova_sub <- adonis2(phyloseq::distance(ASV_Sub,method="bray",binary=T) ~ ASV_Sub@sam_data$Uplift,
                          permutations=999)
 permanova_nested <- adonis2(phyloseq::distance(ASV_Kelp,method="bray",binary=T)~ ASV_Kelp@sam_data$Uplift/ASV_Kelp@sam_data$Location/ASV_Kelp@sam_data$AgeClass/ASV_Kelp@sam_data$SampleType,
                             permutations=999)
@@ -465,7 +465,7 @@ ggplot(x_func) +
 
 library(microbiome)
 ASV_function_kelp<-ASV_function#prune_samples(ASV_Kelp@sam_data$Sample, ASV_function)
-dist_dat_fun<-phyloseq::distance(ASV_function,method="bray")
+dist_dat_fun<-phyloseq::distance(ASV_function,method="bray",binary=T)
 bdiv_res_fun<-(betadisper(dist_dat_fun,ASV_function_kelp@sam_data$Uplift))
 
 
