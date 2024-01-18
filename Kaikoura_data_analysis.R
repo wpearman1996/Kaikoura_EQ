@@ -184,6 +184,8 @@ boxplot(bdiv_res_sub)
 anova(bdiv_res_sub)
 permanova_sub <- adonis2(phyloseq::distance(ASV_Sub,method="bray") ~ ASV_Sub@sam_data$Uplift,
                          permutations=999)
+permanova_nested <- adonis2(phyloseq::distance(ASV_Kelp,method="bray",binary=T)~ ASV_Kelp@sam_data$Uplift/ASV_Kelp@sam_data$Location/ASV_Kelp@sam_data$AgeClass/ASV_Kelp@sam_data$SampleType,
+                            permutations=999)
 
 bdiv_noup<-betadiver(t(ASV_Kelp@otu_table@.Data),triangular=F,method=1)
 bdiv_res_tissue<-(betadisper(bdiv_noup,
